@@ -2,7 +2,7 @@
 
 ### 🚩 Red Team Jr Pentester | Ethical Hacker
 
-Bienvenido a mi perfil. Me apasiona la ciberseguridad, las pruebas de intrusión y romper cosas para aprender a arreglarlas.
+Bienvenido a mi perfil. Me apasiona la ciberseguridad, el codigo, las pruebas de penetración y romper cosas para aprender a arreglarlas.
 
 ---
 
