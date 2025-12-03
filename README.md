@@ -6,15 +6,6 @@ Bienvenido a mi perfil. Me apasiona la ciberseguridad, las pruebas de intrusión
 
 ---
 
-### 🐍 Mis Contribuciones
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/[TU_USUARIO]/[TU_USUARIO]/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/[TU_USUARIO]/[TU_USUARIO]/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/[TU_USUARIO]/[TU_USUARIO]/blob/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 ### 🛠 Skills & Tools
 
 **Pentesting Tools:**
