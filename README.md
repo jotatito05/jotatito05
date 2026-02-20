@@ -1,6 +1,6 @@
 # ¡Hola! Soy JotaTito05 🕵️‍♂️
 
-### 🚩 Red Team Jr Pentester | Ethical Hacker
+### 🚩 🕵️‍♂️ Threat Intelligence Analyst & Offensive Security | Ethical Hacker
 
 Bienvenido a mi perfil. Me apasiona la ciberseguridad, el codigo, las pruebas de penetración y romper cosas para aprender a arreglarlas.
 
