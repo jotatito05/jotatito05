@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" role="img" aria-labelledby="title">
+<title id="title">JotaTito05 · Offensive Security</title>
+<defs><pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0H0V25" fill="none" stroke="#15353a" stroke-width=".7"/></pattern></defs>
+<rect width="900" height="240" rx="14" fill="#09131c"/><rect x="500" width="400" height="240" fill="url(#grid)"/>
+<g font-family="monospace"><text x="36" y="45" fill="#68e8cf" font-size="18">jota@lab:~$ whoami</text><text x="32" y="129" fill="#ecfff9" font-size="68" font-weight="bold">JotaTito05</text><text x="38" y="175" fill="#b9a7ff" font-size="24">OFFENSIVE SECURITY</text></g>
+<g fill="none" stroke-width="1.6"><path d="M 738.0 55.0 L 734.0 57.2 L 726.0 57.2 L 722.0 55.0 L 726.0 52.8 L 734.0 52.8 Z" stroke="#5bffdf"/>
+<path d="M 748.2 61.8 L 738.1 66.6 L 719.9 66.3 L 711.8 61.0 L 721.9 56.2 L 740.1 56.5 Z" stroke="#5bffdf"/>
+<path d="M 757.9 69.0 L 740.8 76.1 L 712.8 74.9 L 702.1 66.6 L 719.2 59.5 L 747.2 60.7 Z" stroke="#5bffdf"/>
+<path d="M 766.8 76.6 L 742.0 85.6 L 705.2 83.2 L 693.2 71.8 L 718.0 62.8 L 754.8 65.2 Z" stroke="#5bffdf"/>
+<path d="M 774.3 84.4 L 741.8 94.8 L 697.5 91.0 L 685.7 76.8 L 718.2 66.4 L 762.5 70.2 Z" stroke="#5bffdf"/>
+<path d="M 780.3 92.5 L 740.2 103.7 L 689.9 98.2 L 679.7 81.5 L 719.8 70.3 L 770.1 75.8 Z" stroke="#5bffdf"/>
+<path d="M 784.5 100.7 L 737.5 112.2 L 683.0 104.9 L 675.5 86.1 L 722.5 74.6 L 777.0 81.9 Z" stroke="#5bffdf"/>
+<path d="M 786.8 108.8 L 733.9 120.1 L 677.1 111.0 L 673.2 90.8 L 726.1 79.5 L 782.9 88.6 Z" stroke="#5bffdf"/>
+<path d="M 787.1 116.9 L 729.7 127.4 L 672.6 116.7 L 672.9 95.5 L 730.3 85.0 L 787.4 95.7 Z" stroke="#5bffdf"/>
+<path d="M 785.5 124.6 L 725.3 134.0 L 669.8 122.0 L 674.5 100.6 L 734.7 91.2 L 790.2 103.2 Z" stroke="#5bffdf"/>
+<path d="M 782.2 132.0 L 721.0 140.0 L 668.8 127.0 L 677.8 106.0 L 739.0 98.0 L 791.2 111.0 Z" stroke="#b39bff"/>
+<path d="M 777.4 138.9 L 717.2 145.3 L 669.8 131.8 L 682.6 111.9 L 742.8 105.5 L 790.2 119.0 Z" stroke="#b39bff"/>
+<path d="M 771.5 145.3 L 714.3 150.0 L 672.8 136.6 L 688.5 118.3 L 745.7 113.6 L 787.2 127.0 Z" stroke="#b39bff"/>
+<path d="M 764.8 151.1 L 712.5 154.3 L 677.8 141.4 L 695.2 125.3 L 747.5 122.1 L 782.2 135.0 Z" stroke="#b39bff"/>
+<path d="M 757.7 156.3 L 712.1 158.1 L 684.4 146.4 L 702.3 132.9 L 747.9 131.1 L 775.6 142.8 Z" stroke="#b39bff"/>
+<path d="M 750.6 161.0 L 713.1 161.7 L 692.6 151.7 L 709.4 141.0 L 746.9 140.3 L 767.4 150.3 Z" stroke="#b39bff"/>
+<path d="M 743.9 165.2 L 715.7 165.2 L 701.8 157.3 L 716.1 149.6 L 744.3 149.6 L 758.2 157.5 Z" stroke="#b39bff"/>
+<path d="M 737.9 169.1 L 719.7 168.6 L 711.8 163.4 L 722.1 158.5 L 740.3 159.0 L 748.2 164.2 Z" stroke="#b39bff"/>
+<path d="M 733.0 172.6 L 725.1 172.2 L 722.1 169.8 L 727.0 167.8 L 734.9 168.2 L 737.9 170.6 Z" stroke="#b39bff"/><ellipse cx="730" cy="204" rx="76" ry="12" stroke="#546a93"/><ellipse cx="730" cy="204" rx="51" ry="7" stroke="#64ebcf"><animate attributeName="opacity" values=".5;1;.5" dur="4s" repeatCount="indefinite"/></ellipse></g>
+</svg>
